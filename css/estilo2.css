@@ -11,7 +11,7 @@ position: relative;
 body {
 
 
-	background-image: url(../img/fondo2.png);
+	background-image: url(../img/fondoBlanco.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -98,10 +98,7 @@ margin-left: 613px;
 margin-right: 700px;
 }
  
-
-
-
-  
+ 
 
 ul{
 
@@ -158,8 +155,6 @@ p{
 	height: 450px;
 	
 }
-
-
 
 
 
