@@ -11,7 +11,7 @@ position: relative;
 body {
 
 
-	background-image: url(../img/fondo2.png);
+	background-image: url(../img/fondoBlanco.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -56,7 +56,6 @@ nav{
 }
 
 
-
 img{
 	margin-top:2px;
 	
@@ -70,17 +69,13 @@ margin-top:2px;
 }
 
 
-
 iframe{
 margin-top:-240px;
 margin-left: 613px;
 margin-right: 700px;
 }
  
-
-
-
-  
+ 
 
 ul{
 
@@ -137,8 +132,6 @@ p{
 	height: 450px;
 	
 }
-
-
 
 
 
