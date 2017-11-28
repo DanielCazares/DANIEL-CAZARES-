@@ -1,5 +1,5 @@
 body {
-	background-image: url(../img/fondo2.png);
+	background-image: url(../img/fondoBlanco.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -63,7 +63,7 @@ section{
 }
 
 h2{
- 	font-family: verdana;
+ 	font-family: arial;
    color:rgba(05,05,255,05);
    margin-left: 20px;
    font-size: 30px;
@@ -109,7 +109,7 @@ footer{
 }
 
 h3{
-   font-family: verdana;
+   font-family: arial;
    color:white;
    margin-left: 16px;
    font-size: 20px;
